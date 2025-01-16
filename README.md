@@ -1,5 +1,6 @@
 # deploy-demo-static-v2
-[预览](https://hgf0419.github.io/deploy-demo-static/)
+[预览](https://hgf0419.github.io/deploy-demo-static-v2/)
+[预览2](http://116.62.129.253/deploy-demo-static-v2/)
 
 ## 简介
 本项目是一个静态网站部署项目的演示demo，使用 GitHub Actions 自动部署到 GitHub Pages 和 阿里云服务器。
